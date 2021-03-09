@@ -1,11 +1,11 @@
 # Real-time Vision-based Face Mask Detection
 
 ## Environment
-Pytorch > 1.2
+Pytorch > 1.2  
 OpenCV, Numpy, etc.
 
 ## File Explanation
-`train.py`: used for training YOLOv4-baed model
+`train.py`: used for training YOLOv4-baed model.    
 `eval.py`: used for evaluating trained model and testing interative interface.
 
 ## Dataset 
@@ -14,7 +14,7 @@ OpenCV, Numpy, etc.
 ## How to start
 
 ### 1. Download weight file
-* Darknet pre-trained weight :  [yolov4](https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT)
+* Darknet pre-trained weight :  [yolov4](https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT)  
 * Make dir `weight/` and put the weight file in.
 
 ### 2. Train the model
