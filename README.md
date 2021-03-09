@@ -1,7 +1,5 @@
 # Real-time Vision-based Face Mask Detection
 
-This is a PyTorch re-implementation of YOLOv4 architecture based on the official darknet implementation [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) with PASCAL VOC and AIZOO dataset
-
 ## Environment
 Pytorch > 1.2
 OpenCV, Numpy, etc.
